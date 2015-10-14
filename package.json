@@ -1,21 +1,19 @@
 {
-	"name": "ibm-xseries",
+	"name": "server-ipmi",
 	"types": ["pack"],
 	"version": "1.4",
-	"homepage": "https://github.com/claneys/pack-ibm-xseries",
+	"homepage": "https://github.com/claneys/pack-server-ipmi",
 	"author": "Romain Forlot",
-	"description": "Standard checks about xSeries sensors (Fan, Temperature, Voltage, ...). Checks are done by IPMI.",
+	"description": "Standard checks about ipmi sensors (Fan, Temperature, Voltage, ...). Checks are done by IPMI.",
 	"contributors": [
 	  {
 		"name": "Romain Forlot",
 		"email": "rforlot@yahoo.com"
 	  }
 	],
-	"repository": "https://github.com/claneys/pack-ibm-xseries",
+	"repository": "https://github.com/claneys/pack-server-ipmi",
 	"keywords": [
 	  "pack",
-	  "ibm",
-	  "xseries",
 	  "hardware",
 	  "server"
 	],
