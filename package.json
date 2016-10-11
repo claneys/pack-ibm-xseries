@@ -1,7 +1,7 @@
 {
 	"name": "server-ipmi",
 	"types": ["pack"],
-	"version": "1.4",
+	"version": "1.5",
 	"homepage": "https://github.com/claneys/pack-server-ipmi",
 	"author": "Romain Forlot",
 	"description": "Standard checks about ipmi sensors (Fan, Temperature, Voltage, ...). Checks are done by IPMI.",
